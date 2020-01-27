@@ -1,0 +1,350 @@
+[
+    {
+        "img": {
+            "src": "./media/images//NRF_person_details1_img.jpg",
+            "alt": "Chanunchida Tharnthorncharoen's photo"
+        },
+        "linkName": {
+            "text": "Chanunchida Tharnthorncharoen",
+            "href": "#",
+            "target": "_blank"
+        },
+        "locations": [
+            {
+                "text": "México City",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "London",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "Washington DC *associate office **alliance",
+                "href": "#",
+                "target": "_blank"
+            }
+        ],
+        "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    },
+    {
+        "img": {
+            "src": "",
+            "alt": ""
+        },
+        "linkName": {
+            "text": "Mohammed AlGhamdi",
+            "href": "#",
+            "target": "_blank"
+        },
+        "locations": [
+            {
+                "text": "México",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "London",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "Monaco",
+                "href": "#",
+                "target": "_blank"
+            }
+        ],
+        "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    },
+    {
+        "img": {
+            "src": "./media/images//NRF_person_details1_img.jpg",
+            "alt": "Leanne Graham's photo"
+        },
+        "linkName": {
+            "text": "Leanne Graham",
+            "href": "#",
+            "target": "_blank"
+        },
+        "locations": [
+            {
+                "text": "México City",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "London",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "Washington DC *associate office **alliance",
+                "href": "#",
+                "target": "_blank"
+            }
+        ],
+        "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    },
+    {
+        "img": {
+            "src": "",
+            "alt": ""
+        },
+        "linkName": {
+            "text": "Ervin Howell",
+            "href": "#",
+            "target": "_blank"
+        },
+        "locations": [
+            {
+                "text": "México",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "London",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "Monaco",
+                "href": "#",
+                "target": "_blank"
+            }
+        ],
+        "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    },
+    {
+        "img": {
+            "src": "./media/images//NRF_person_details1_img.jpg",
+            "alt": "Patricia Lebsack's photo"
+        },
+        "linkName": {
+            "text": "Patricia Lebsack",
+            "href": "#",
+            "target": "_blank"
+        },
+        "locations": [
+            {
+                "text": "México City",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "London",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "Washington DC *associate office **alliance",
+                "href": "#",
+                "target": "_blank"
+            }
+        ],
+        "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    },
+    {
+        "img": {
+            "src": "./media/images//NRF_person_details1_img.jpg",
+            "alt": "Chelsey Dietrich's photo"
+        },
+        "linkName": {
+            "text": "Chelsey Dietrich",
+            "href": "#",
+            "target": "_blank"
+        },
+        "locations": [
+            {
+                "text": "México",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "London",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "Monaco",
+                "href": "#",
+                "target": "_blank"
+            }
+        ],
+        "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    },
+    {
+        "img": {
+            "src": "./media/images//NRF_person_details1_img.jpg",
+            "alt": "Mrs. Dennis Schulist's photo"
+        },
+        "linkName": {
+            "text": "Mrs. Dennis Schulist",
+            "href": "#",
+            "target": "_blank"
+        },
+        "locations": [
+            {
+                "text": "México City",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "London",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "Washington DC *associate office **alliance",
+                "href": "#",
+                "target": "_blank"
+            }
+        ],
+        "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    },
+    {
+        "img": {
+            "src": "./media/images//NRF_person_details1_img.jpg",
+            "alt": "Kurtis Weissnat's photo"
+        },
+        "linkName": {
+            "text": "Kurtis Weissnat",
+            "href": "#",
+            "target": "_blank"
+        },
+        "locations": [
+            {
+                "text": "México",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "London",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "Monaco",
+                "href": "#",
+                "target": "_blank"
+            }
+        ],
+        "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    },
+    {
+        "img": {
+            "src": "./media/images//NRF_person_details1_img.jpg",
+            "alt": "Nicholas Runolfsdottir V's photo"
+        },
+        "linkName": {
+            "text": "Nicholas Runolfsdottir V",
+            "href": "#",
+            "target": "_blank"
+        },
+        "locations": [
+            {
+                "text": "México City",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "London",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "Washington DC *associate office **alliance",
+                "href": "#",
+                "target": "_blank"
+            }
+        ],
+        "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    },
+    {
+        "img": {
+            "src": "./media/images//NRF_person_details1_img.jpg",
+            "alt": "Glenna Reichert's photo"
+        },
+        "linkName": {
+            "text": "Glenna Reichert",
+            "href": "#",
+            "target": "_blank"
+        },
+        "locations": [
+            {
+                "text": "México",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "London",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "Monaco",
+                "href": "#",
+                "target": "_blank"
+            }
+        ],
+        "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    },
+    {
+        "img": {
+            "src": "./media/images//NRF_person_details1_img.jpg",
+            "alt": "Clementina DuBuque's photo"
+        },
+        "linkName": {
+            "text": "Clementina DuBuque",
+            "href": "#",
+            "target": "_blank"
+        },
+        "locations": [
+            {
+                "text": "México City",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "London",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "Washington DC *associate office **alliance",
+                "href": "#",
+                "target": "_blank"
+            }
+        ],
+        "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    },
+    {
+        "img": {
+            "src": "./media/images//NRF_person_details1_img.jpg",
+            "alt": "Elwyn Skile's photo"
+        },
+        "linkName": {
+            "text": "Elwyn Skiles",
+            "href": "#",
+            "target": "_blank"
+        },
+        "locations": [
+            {
+                "text": "México",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "London",
+                "href": "#",
+                "target": "_blank"
+            },
+            {
+                "text": "Monaco",
+                "href": "#",
+                "target": "_blank"
+            }
+        ],
+        "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    }
+]
