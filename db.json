@@ -3,64 +3,6 @@
         {
             "img": {
                 "src": "./media/images//NRF_person_details1_img.jpg",
-                "alt": "Chanunchida Tharnthorncharoen's photo"
-            },
-            "linkName": {
-                "text": "Chanunchida Tharnthorncharoen",
-                "href": "#",
-                "target": "_blank"
-            },
-            "locations": [
-                {
-                    "text": "México City",
-                    "href": "#",
-                    "target": "_blank"
-                },
-                {
-                    "text": "London",
-                    "href": "#",
-                    "target": "_blank"
-                },
-                {
-                    "text": "Washington DC *associate office **alliance",
-                    "href": "#",
-                    "target": "_blank"
-                }
-            ],
-            "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
-        },
-        {
-            "img": {
-                "src": "",
-                "alt": ""
-            },
-            "linkName": {
-                "text": "Mohammed AlGhamdi",
-                "href": "#",
-                "target": "_blank"
-            },
-            "locations": [
-                {
-                    "text": "México",
-                    "href": "#",
-                    "target": "_blank"
-                },
-                {
-                    "text": "London",
-                    "href": "#",
-                    "target": "_blank"
-                },
-                {
-                    "text": "Monaco",
-                    "href": "#",
-                    "target": "_blank"
-                }
-            ],
-            "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
-        },
-        {
-            "img": {
-                "src": "./media/images//NRF_person_details1_img.jpg",
                 "alt": "Leanne Graham's photo"
             },
             "linkName": {
@@ -76,11 +18,6 @@
                 },
                 {
                     "text": "London",
-                    "href": "#",
-                    "target": "_blank"
-                },
-                {
-                    "text": "Washington DC *associate office **alliance",
                     "href": "#",
                     "target": "_blank"
                 }
@@ -131,16 +68,6 @@
                     "text": "México City",
                     "href": "#",
                     "target": "_blank"
-                },
-                {
-                    "text": "London",
-                    "href": "#",
-                    "target": "_blank"
-                },
-                {
-                    "text": "Washington DC *associate office **alliance",
-                    "href": "#",
-                    "target": "_blank"
                 }
             ],
             "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
@@ -156,16 +83,6 @@
                 "target": "_blank"
             },
             "locations": [
-                {
-                    "text": "México",
-                    "href": "#",
-                    "target": "_blank"
-                },
-                {
-                    "text": "London",
-                    "href": "#",
-                    "target": "_blank"
-                },
                 {
                     "text": "Monaco",
                     "href": "#",
@@ -187,16 +104,6 @@
             "locations": [
                 {
                     "text": "México City",
-                    "href": "#",
-                    "target": "_blank"
-                },
-                {
-                    "text": "London",
-                    "href": "#",
-                    "target": "_blank"
-                },
-                {
-                    "text": "Washington DC *associate office **alliance",
                     "href": "#",
                     "target": "_blank"
                 }
@@ -252,11 +159,6 @@
                     "text": "London",
                     "href": "#",
                     "target": "_blank"
-                },
-                {
-                    "text": "Washington DC *associate office **alliance",
-                    "href": "#",
-                    "target": "_blank"
                 }
             ],
             "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
@@ -302,17 +204,7 @@
             },
             "locations": [
                 {
-                    "text": "México City",
-                    "href": "#",
-                    "target": "_blank"
-                },
-                {
                     "text": "London",
-                    "href": "#",
-                    "target": "_blank"
-                },
-                {
-                    "text": "Washington DC *associate office **alliance",
                     "href": "#",
                     "target": "_blank"
                 }
